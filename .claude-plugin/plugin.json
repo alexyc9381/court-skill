@@ -1,0 +1,10 @@
+{
+  "name": "court-skill",
+  "description": "When Claude agrees with everything you say, put your idea on trial in front of a jury of 12 Claudes. Free Claude Code skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Chen"
+  },
+  "license": "MIT",
+  "keywords": ["claude-code", "subagents", "multi-agent", "jury", "decision-making", "feedback"]
+}

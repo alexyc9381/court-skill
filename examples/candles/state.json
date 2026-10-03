@@ -1,0 +1,19 @@
+{
+  "dir": "examples/candles",
+  "seed": 11,
+  "jury": [
+    {
+      "name": "The Statistician",
+      "lens": "You look for base rates, tiny samples and survivorship bias. How often does a plan like this actually work?"
+    },
+    {
+      "name": "The Parent",
+      "lens": "You protect your family's time, money and safety. Is it trustworthy, and is it worth the risk to the people involved?"
+    },
+    {
+      "name": "The Lawyer",
+      "lens": "You look for legal, regulatory and liability traps that the case does not mention."
+    }
+  ],
+  "created": "2026-10-02T22:00:48"
+}

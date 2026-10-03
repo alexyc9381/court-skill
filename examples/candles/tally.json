@@ -1,0 +1,29 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 3,
+  "not_guilty": 0,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "The record gives me no base rate to lean on, and on its own numbers the plan stakes a job and all the savings on a more-than-fourfold jump in sales extrapolated from one 40-sale, three-month total with no trend and no stopping point.",
+      "fact": "Covering the $1,600 rent from gross sales alone takes about 57 sales a month at $28, over four times the roughly 13 a month in the record's only data point (40 sales in 3 months).",
+      "flip": "The case included a month-by-month sales record showing sales rising fast enough to reach about 57 a month inside the five months the savings cover."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "I wouldn't let anyone I love quit nursing and stake the $8,000 they have saved on candles that gross about $373 a month against $1,600 rent, with no stop point and no word on whether they could go back.",
+      "fact": "40 sales at $28 over three months is about $373 a month, which the defense concedes covers under a quarter of the $1,600 rent, so at today's pace the $8,000 saved is gone in under seven months even if every dollar of sales were profit and rent were the only bill.",
+      "flip": "the record showed a firm way back to nursing work, such as an approved leave or a promised re-hire, so that failing would cost the savings but not the nursing income for good."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "As the lawyer, I see a plan that gives up the paycheck before papering anything: candles made at home carry fire, burn and lease exposure, and the record shows no liability insurance, lease permission, tax plan, health coverage or license upkeep behind them, only an $8,000 cushion that is five months of rent.",
+      "fact": "\"They make the candles at home\" and rent is $1,600 a month, so a wax-and-flame business sits in what is presumably a leased home, yet the record is silent on the lease, any insurance and which country's rules apply.",
+      "flip": "The case showed the home business already papered: the landlord's written consent to run it from the home and an insurance policy covering product liability for it."
+    }
+  ]
+}
