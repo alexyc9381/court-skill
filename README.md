@@ -39,6 +39,12 @@ git clone https://github.com/alexyc9381/court-skill
 cp -r court-skill/skills/court ~/.claude/skills/
 ```
 
+Or with the skills CLI (works for Claude Code and other agents):
+
+```bash
+npx skills add alexyc9381/court-skill
+```
+
 Or as a plugin:
 
 ```
