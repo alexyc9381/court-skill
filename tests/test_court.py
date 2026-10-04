@@ -76,6 +76,7 @@ class CourtTest(unittest.TestCase):
         self.assertIn("Quit my job to sell candles", text)
         self.assertIn("because / pipes", text)
         self.assertIn("## The sentence", text)
+        self.assertTrue(text.rstrip().endswith(court.CREDIT))
 
     def test_hung_jury(self):
         state = self.open_trial("--jury", "4")

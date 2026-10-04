@@ -30,6 +30,7 @@ PHASES = ["opening", "rebuttal", "jury", "judge"]
 DEFAULT_JURY = 12
 QUICK_JURY = 6
 WAVE = 6
+CREDIT = ("_Made with [/court](https://github.com/alexyc9381/court-skill), a free Claude Code skill by Alex Chen ([@nocodealex](https://instagram.com/nocodealex))._")
 CHARGE = "The case fails as stated: it should not go ahead the way it is described."
 
 
@@ -229,7 +230,7 @@ def render(state):
         lines.append("| %s | %s | %s |" % (r["juror"], r["vote"], r["reason"].replace("|", "/")))
     lines += ["", judgment, "",
               "_The full trial is in %s: the opening statements, the rebuttals and every juror's vote._"
-              % os.path.abspath(state["dir"])]
+              % os.path.abspath(state["dir"]), "", CREDIT]
     text = "\n".join(lines) + "\n"
     with open(os.path.join(state["dir"], "VERDICT.md"), "w") as f:
         f.write(text)

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "court-skill: put your idea on trial in front of a jury of 12 Claudes"
+abstract: "A free Claude Code skill that puts an idea on trial: a prosecutor Claude, a defense Claude, a jury of 12 Claude sub-agents who vote on their own, and a judge who reads the verdict and what would flip it."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/court-skill"
+url: "https://chen.media/guides/put-your-idea-on-trial-in-front-of-a-jury-of-12-claudes-how-to-install-the-free-skill"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-03"
+keywords:
+  - claude-code
+  - claude-skills
+  - subagents
+  - multi-agent
+  - jury
+  - decision-making

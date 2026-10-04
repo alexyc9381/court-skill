@@ -3,6 +3,8 @@
 When Claude agrees with everything you say, put your idea on trial in front of a jury of 12 Claudes.
 One Claude Code skill. Free, MIT, no signup, no API key, nothing to connect.
 
+Made by **Alex Chen** ([@nocodealex](https://instagram.com/nocodealex)), an AI creator who builds free Claude Code skills. Step-by-step guide at [chen.media](https://chen.media/guides/put-your-idea-on-trial-in-front-of-a-jury-of-12-claudes-how-to-install-the-free-skill).
+
 Ask Claude "is this a good idea?" and it usually says yes. `/court` takes the same idea and runs a
 trial instead:
 
@@ -74,6 +76,18 @@ argues a side, never votes and never edits the verdict. The jurors are in `skill
 ```bash
 python3 -m unittest discover -s tests
 ```
+
+## Making a video or post about this?
+
+Go ahead. Credit it like this, in your caption or description:
+
+```text
+/court skill by Alex Chen (@nocodealex): github.com/alexyc9381/court-skill
+```
+
+Tag [@nocodealex](https://instagram.com/nocodealex) so I can see it. Every verdict the skill writes already ends with the same credit, so leave it in the shot.
+
+Writing about it or citing it in a paper? Use **Cite this repository** in the sidebar on GitHub.
 
 ## Uninstall
 

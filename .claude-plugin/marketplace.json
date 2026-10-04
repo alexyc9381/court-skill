@@ -10,7 +10,12 @@
       "name": "court-skill",
       "description": "Puts your idea on trial: a prosecutor Claude, a defense Claude, a jury of 12 Claudes who vote on their own, and a judge who reads the verdict and what would flip it.",
       "source": "./",
-      "category": "productivity"
+      "category": "productivity",
+      "author": {
+        "name": "Alex Chen",
+        "url": "https://chen.media"
+      },
+      "homepage": "https://chen.media/guides/put-your-idea-on-trial-in-front-of-a-jury-of-12-claudes-how-to-install-the-free-skill"
     }
   ]
 }
