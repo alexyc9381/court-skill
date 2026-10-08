@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As an engineer I look for the first component that fails under load, and here the fulfilment chain has an unverified link at its core: the applicant takes on full delivery liability to the authority with no named wholesaler, no confirmed supply terms and no stated capital to bridge the gap between paying the supplier and being paid, so the system as described cannot be shown to work even for a single order.
+DECIDING FACT: The record lists "konkrete Großhändler" and the "konkrete Höhe des verfügbaren Kapitals" as unknown, and the defense concedes the pre-financing "bleibt" and that whether wholesalers deliver on credit is "unbekannt".
+WOULD FLIP IF: The case named a specific wholesaler that has confirmed in writing it will drop-ship to public buyers on payment terms that let the authority's payment arrive before the supplier's invoice is due, closing the pre-financing gap for the first orders.

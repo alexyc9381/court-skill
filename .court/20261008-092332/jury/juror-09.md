@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As a parent, I won't put the family's limited savings behind a contract where I alone carry the delivery liability toward a public authority before it pays me, while nobody can say whether any wholesaler will deliver on credit or whether I'd even be eligible to win without references.
+DECIDING FACT: The applicant is the authority's contractual partner and must get the wholesaler to deliver before the authority pays, with "kein großes Eigenkapital vorhanden" and the wholesalers and their payment terms listed as unknown; even the defense admits the pre-financing gap "bleibt".
+WOULD FLIP IF: The case showed a named wholesaler confirming delivery on payment terms that cover the authority's payment period, plus at least one suitable tender that asks for no references, so a first small contract could be fulfilled without risking family money.

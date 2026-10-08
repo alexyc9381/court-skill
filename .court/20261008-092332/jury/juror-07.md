@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Twenty years behind a counter taught me that whoever signs the contract pays the supplier before the customer pays them, and this plan has no cash to cover that gap, no named supplier willing to extend credit, and no references to win the bid in the first place, so as described it should not start.
+DECIDING FACT: The case file says "kein großes Eigenkapital vorhanden" while the flow has the wholesaler deliver before the public buyer pays, and the defense itself concedes the pre-financing "bleibt" and that it is unknown whether wholesalers deliver on credit.
+WOULD FLIP IF: The applicant named a specific wholesaler that confirmed in writing it would deliver on payment terms longer than the public buyer's payment period, plus a set of real tenders in a named product category that require no references.

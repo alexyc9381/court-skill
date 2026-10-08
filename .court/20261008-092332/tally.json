@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 12,
+  "not_guilty": 0,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "Every euro in this plan flows the wrong way first: the applicant has to pay or secure the wholesaler before the public buyer pays, yet the record holds no capital figure, no supplier payment terms, no margin and no order size, so nobody can say who carries the gap, for how much, or for how long, and the 3,000-euro monthly target has no arithmetic behind it at all.",
+      "fact": "The defense itself concedes the pre-financing gap \"bleibt\" (Gro\u00dfh\u00e4ndler vor Zahlungseingang des Auftraggebers), while \"konkrete H\u00f6he des verf\u00fcgbaren Kapitals\", \"konkrete Gro\u00dfh\u00e4ndler\" and \"Zielauftragsgr\u00f6\u00dfen\" are all listed as unknown in the case file.",
+      "flip": "The case named a product category with documented wholesaler purchase prices and payment terms (e.g. confirmed delivery on credit) and a stated available capital that covers the pre-financing of the planned order sizes until the buyer pays, giving a sourced margin per order."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "Als jemand, der heute zum ersten Mal davon h\u00f6rt, w\u00fcrde ich diese Woche weder Zeit noch Geld darauf setzen, denn sogar die Verteidigung kann mir nicht sagen, ob ich ohne Referenzen \u00fcberhaupt einen Zuschlag bekomme, und ohne Zuschlag gibt es nichts zu verdienen.",
+      "fact": "Die Verteidigung r\u00e4umt selbst ein, dass der Antragsteller ohne \u201evorhandene Referenzen\u201c bei Vergaben mit Referenzanforderung \u201echancenlos\u201c ist, und nennt das Vorhaben \u201eals Plan mit festem Gewinnziel noch nicht\u201c vertretbar; die Akte belegt nicht, dass es genug Verfahren ohne solche Anforderung gibt.",
+      "flip": "Der Fall enthielte einen Beleg, dass es in einer benannten Produktkategorie regelm\u00e4\u00dfig Ausschreibungen ohne Referenzanforderung gibt, zusammen mit einem benannten Gro\u00dfh\u00e4ndler, der einem Neukunden auf Ziel liefert, sodass ein erster kleiner Auftrag ohne Vorfinanzierung aus eigener Tasche m\u00f6glich w\u00e4re."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As the specialist dealer this would bid against, I'd ignore it: a part-timer reselling the same wholesale goods with no named product category, no supplier terms and no references gives me nothing to copy and no price edge to fear, so as described it would mostly lose bids or win them at a margin I wouldn't want.",
+      "fact": "Branche/Produktkategorie, konkrete Gro\u00dfh\u00e4ndler and vorhandene Referenzen are all \"nicht angegeben\", and the defense itself concedes that without references the applicant is \"chancenlos\" wherever tenders require them, and calls this \"die gr\u00f6\u00dfte L\u00fccke\".",
+      "flip": "The case named a specific product niche with documented wholesaler terms (price advantage or delivery on credit) and showed a real set of tenders in that niche that require no references, which would give the applicant an edge I'd actually have to compete against."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "Whoever wants to proceed carries the burden of proof, and the record puts nothing behind the model except open questions; even the defense concedes it can only call the plan a \"test with small orders\", not something to start \"as described\".",
+      "fact": "\"Vorhandene Referenzen\" are listed as unknown, the defense calls this \"die gr\u00f6\u00dfte L\u00fccke\" and does not claim that tenders without reference requirements exist, so the record never shows the applicant can get past \"Angebot abgeben\" to a single award.",
+      "flip": "The record showed (with sources) that the applicant can win and fulfil awards without references, for example a set of real current tenders in a named product category with no reference requirement, plus a named wholesaler willing to deliver on payment terms that fit the applicant's stated capital."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "Honestly, even the defense says the biggest hole is that there are no references and nobody knows if you can even get picked, so this is just \"buy from a wholesaler, resell to the government\" with no product, no edge, and no math, and I'd forget about it by next week.",
+      "fact": "The defense itself calls missing references (\"vorhandene Referenzen\" unknown) \"die gr\u00f6\u00dfte L\u00fccke\" and does not claim tenders without reference requirements exist, so the plan may never get past \"Angebot abgeben\".",
+      "flip": "The applicant named a specific product category and showed real tenders in it that a newcomer without references can win, with a wholesaler willing to deliver on payment terms."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "GUILTY",
+      "reason": "As an engineer I look for the first component that fails under load, and here the fulfilment chain has an unverified link at its core: the applicant takes on full delivery liability to the authority with no named wholesaler, no confirmed supply terms and no stated capital to bridge the gap between paying the supplier and being paid, so the system as described cannot be shown to work even for a single order.",
+      "fact": "The record lists \"konkrete Gro\u00dfh\u00e4ndler\" and the \"konkrete H\u00f6he des verf\u00fcgbaren Kapitals\" as unknown, and the defense concedes the pre-financing \"bleibt\" and that whether wholesalers deliver on credit is \"unbekannt\".",
+      "flip": "The case named a specific wholesaler that has confirmed in writing it will drop-ship to public buyers on payment terms that let the authority's payment arrive before the supplier's invoice is due, closing the pre-financing gap for the first orders."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "Twenty years behind a counter taught me that whoever signs the contract pays the supplier before the customer pays them, and this plan has no cash to cover that gap, no named supplier willing to extend credit, and no references to win the bid in the first place, so as described it should not start.",
+      "fact": "The case file says \"kein gro\u00dfes Eigenkapital vorhanden\" while the flow has the wholesaler deliver before the public buyer pays, and the defense itself concedes the pre-financing \"bleibt\" and that it is unknown whether wholesalers deliver on credit.",
+      "flip": "The applicant named a specific wholesaler that confirmed in writing it would deliver on payment terms longer than the public buyer's payment period, plus a set of real tenders in a named product category that require no references."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "The record gives no win rate, no margin, no order size and no references, so there is no way to compute how many awards a 3,000 euros a month profit needs, and with the base rate for an unreferenced newcomer winning anything unknown, \"as described\" means betting capital and time on a number nobody has measured.",
+      "fact": "The defense itself concedes that without \"vorhandene Referenzen\" the applicant is \"chancenlos\" in tenders that require references, and that the record does not show whether enough tenders without that requirement exist.",
+      "flip": "The case named a product category and showed a real sample of past tenders in it with no reference requirement, with documented award prices against wholesale prices and wholesaler payment terms, so that a margin and a plausible win rate could actually be calculated."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "As a parent, I won't put the family's limited savings behind a contract where I alone carry the delivery liability toward a public authority before it pays me, while nobody can say whether any wholesaler will deliver on credit or whether I'd even be eligible to win without references.",
+      "fact": "The applicant is the authority's contractual partner and must get the wholesaler to deliver before the authority pays, with \"kein gro\u00dfes Eigenkapital vorhanden\" and the wholesalers and their payment terms listed as unknown; even the defense admits the pre-financing gap \"bleibt\".",
+      "flip": "The case showed a named wholesaler confirming delivery on payment terms that cover the authority's payment period, plus at least one suitable tender that asks for no references, so a first small contract could be fulfilled without risking family money."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "I would not put my own money into this as described, because the business has no stated edge and no stated margin, and its full contract liability sits with the applicant, so the downside is real while the upside cannot be shown from the record.",
+      "fact": "The defense itself concedes that without \"vorhandene Referenzen\" the applicant is \"chancenlos\" in tenders that require references, and that the record does not say whether enough tenders exist without that requirement, so it is not shown that the model can win a single contract.",
+      "flip": "The case named a product category and wholesalers with confirmed payment terms (Zahlungsziel), plus evidence of real tenders without reference requirements in which a newcomer could bid with a documented margin."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "As described, I cannot say in five seconds what is being sold, to whom, or why a public buyer would pick this middleman over the wholesaler, and a plan whose core offer is blank should not go ahead.",
+      "fact": "\"Branche/Produktkategorie\", \"konkrete Gro\u00dfh\u00e4ndler\" and \"Zielauftragsgr\u00f6\u00dfen\" are listed as \"Nicht angegeben\", and the defense itself concedes that without them margins and competition are \"derzeit nicht bewertbar\".",
+      "flip": "The case named a specific product category and wholesaler with stated supply terms, and showed real tenders in that category that a bidder without references can enter."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "As described, the applicant signs public supply contracts as the sole contractual party, with no stated legal form, no secured supplier terms and no checked suitability, so every non-delivery or defect lands on them personally, and one badly performed contract can count against them in later tenders.",
+      "fact": "The prosecution's point, which the defense concedes (\"Die Haftung liegt tats\u00e4chlich beim Antragsteller\"), that the authority contracts with the applicant and not the wholesaler, combined with \"Rechtsform\" being listed as unknown and the cited risk that significant poor performance is an optional exclusion ground under \u00a7 124 GWB.",
+      "flip": "The case stated a liability-limiting legal form plus written wholesaler commitments (delivery on credit, delivery deadlines and warranty passed back to the wholesaler) for a defined product category, and started with small contracts whose suitability requirements the applicant can verifiably meet."
+    }
+  ]
+}
