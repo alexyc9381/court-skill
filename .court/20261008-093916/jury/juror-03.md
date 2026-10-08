@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Als etablierter Lieferant würde ich diesen Plan ignorieren, denn er will meine Ware zu meinen Konditionen kaufen und damit gegen mich bei meinen eigenen Kunden bieten, und nichts im Plan sagt, womit er mich unterbieten oder warum ich ihm per Strecke und auf Ziel zuliefern sollte, statt selbst anzubieten.
+DECIDING FACT: Die Akte nennt Contorion und Würth nur als „mögliche Lieferanten“ ohne „bestätigte individuelle Konditionen oder Streckengeschäftsvereinbarungen“ und enthält keinen Grund, warum eine Behörde beim Zwischenhändler statt beim Großhändler selbst kaufen sollte.
+WOULD FLIP IF: Der Plan schriebe als Gebotssperre fest, dass vor jedem Angebot eine schriftliche Strecken- und Zahlungszielzusage eines Großhändlers vorliegt, der nicht selbst um dieselben Ausschreibungen konkurriert, mit dokumentiertem Einkaufspreis unter dem Preis, den die Behörde sonst direkt zahlt.
