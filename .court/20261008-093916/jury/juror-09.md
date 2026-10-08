@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Gedeckelt sind nur die 250 € Wareneinkauf, nicht die Haftung eines 21-Jährigen, der allein haftet und nach einem Zuschlag ohne schriftliche Lieferantenzusage liefern müsste, weil der Plan nicht festlegt, welche „Voraussetzungen“ vor einem verbindlichen Angebot erfüllt sein müssen.
+DECIDING FACT: Laut Akte liegen „noch keine bestätigten individuellen Konditionen oder Streckengeschäftsvereinbarungen vor“, und die Rechtsform ist ungeklärt. Trotzdem nennt der Plan für ein verbindliches Angebot nur „erfüllte Voraussetzungen“, ohne sie zu bestimmen.
+WOULD FLIP IF: Der Plan schreibt eine ausdrückliche Gebotssperre fest: kein verbindliches Angebot ohne schriftliche Zusage des Großhändlers zu Direktlieferung und einem Zahlungsziel länger als die Zahlungsfrist der Behörde, ohne geklärte Rechtsform und Haftung und ohne geprüfte Ausschreibung ohne Referenzpflicht.

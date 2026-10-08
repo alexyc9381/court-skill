@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Ehrlich, 30 Tage Tabellen und Recherche neben dem Vollzeitjob, am Ende vielleicht null Gebote, und selbst wenn es klappt, sind es 100 € für einen Auftrag, wenn man für das eigentliche Ziel 30 pro Monat bräuchte; nach einer Woche hätte ich keinen Bock mehr, und die Regel „nur bei erfüllten Voraussetzungen“ sagt nicht mal, welche Voraussetzungen gemeint sind.
+DECIDING FACT: Der Plan legt nicht fest, welche „Voraussetzungen“ vor dem verbindlichen Angebot erfüllt sein müssen, und es liegen „keine bestätigten individuellen Konditionen oder Streckengeschäftsvereinbarungen“ vor, also ist die angebliche Abbruchregel unbestimmt.
+WOULD FLIP IF: Der Plan schreibt eine feste Gebotssperre hinein (schriftliche Streckengeschäfts- und Zahlungszielzusage von Contorion oder Würth, geklärte Rechtsform, Ausschreibung ohne Referenzpflicht) und endet nach 30 Tagen mit einem klaren Ja oder Nein statt mit einem Stapel Recherche.

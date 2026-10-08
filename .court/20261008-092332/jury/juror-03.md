@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As the specialist dealer this would bid against, I'd ignore it: a part-timer reselling the same wholesale goods with no named product category, no supplier terms and no references gives me nothing to copy and no price edge to fear, so as described it would mostly lose bids or win them at a margin I wouldn't want.
+DECIDING FACT: Branche/Produktkategorie, konkrete Großhändler and vorhandene Referenzen are all "nicht angegeben", and the defense itself concedes that without references the applicant is "chancenlos" wherever tenders require them, and calls this "die größte Lücke".
+WOULD FLIP IF: The case named a specific product niche with documented wholesaler terms (price advantage or delivery on credit) and showed a real set of tenders in that niche that require no references, which would give the applicant an edge I'd actually have to compete against.

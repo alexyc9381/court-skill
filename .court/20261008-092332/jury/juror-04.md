@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Whoever wants to proceed carries the burden of proof, and the record puts nothing behind the model except open questions; even the defense concedes it can only call the plan a "test with small orders", not something to start "as described".
+DECIDING FACT: "Vorhandene Referenzen" are listed as unknown, the defense calls this "die größte Lücke" and does not claim that tenders without reference requirements exist, so the record never shows the applicant can get past "Angebot abgeben" to a single award.
+WOULD FLIP IF: The record showed (with sources) that the applicant can win and fulfil awards without references, for example a set of real current tenders in a named product category with no reference requirement, plus a named wholesaler willing to deliver on payment terms that fit the applicant's stated capital.

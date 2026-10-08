@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Die ganze Verteidigung hängt an einer Abbruchregel, die ein Fremder nicht in fünf Sekunden versteht, weil der Plan nirgends sagt, welche „Voraussetzungen“ vor einem verbindlichen Gebot erfüllt sein müssen, und eine Sicherung, die man nicht lesen kann, sichert nichts.
+DECIDING FACT: Ziel 5 lautet nur „Nur bei erfüllten Voraussetzungen ein verbindliches Angebot abgeben“, ohne die Voraussetzungen zu benennen, und Ziel 3 verlangt bloß „zwei belastbare Lieferantenangebote“, also Preise statt der schriftlichen Zusage zu Streckengeschäft und Zahlungsziel, die das erste Urteil gefordert hat.
+WOULD FLIP IF: Der Plan nennt als ausdrückliche, abhakbare Gebotssperre die schriftliche Streckengeschäfts- und Zahlungszielzusage eines Großhändlers, die geklärte Rechtsform und eine Ausschreibung ohne Referenzpflicht, sodass jeder auf einen Blick sieht, wann geboten wird und wann nicht.

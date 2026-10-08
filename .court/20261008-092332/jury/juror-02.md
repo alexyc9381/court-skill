@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Als jemand, der heute zum ersten Mal davon hört, würde ich diese Woche weder Zeit noch Geld darauf setzen, denn sogar die Verteidigung kann mir nicht sagen, ob ich ohne Referenzen überhaupt einen Zuschlag bekomme, und ohne Zuschlag gibt es nichts zu verdienen.
+DECIDING FACT: Die Verteidigung räumt selbst ein, dass der Antragsteller ohne „vorhandene Referenzen“ bei Vergaben mit Referenzanforderung „chancenlos“ ist, und nennt das Vorhaben „als Plan mit festem Gewinnziel noch nicht“ vertretbar; die Akte belegt nicht, dass es genug Verfahren ohne solche Anforderung gibt.
+WOULD FLIP IF: Der Fall enthielte einen Beleg, dass es in einer benannten Produktkategorie regelmäßig Ausschreibungen ohne Referenzanforderung gibt, zusammen mit einem benannten Großhändler, der einem Neukunden auf Ziel liefert, sodass ein erster kleiner Auftrag ohne Vorfinanzierung aus eigener Tasche möglich wäre.

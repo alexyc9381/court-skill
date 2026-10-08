@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Als Investor sehe ich höchstens 100 € unbelegten Deckungsbeitrag pro Auftrag gegen die persönliche Alleinhaftung nach Zuschlag, und die einzige Bremse dazwischen, „Nur bei erfüllten Voraussetzungen ein verbindliches Angebot abgeben“, sagt nicht, welche Voraussetzungen gemeint sind; so gebe ich mein Geld nicht frei.
+DECIDING FACT: Es liegen „noch keine bestätigten individuellen Konditionen oder Streckengeschäftsvereinbarungen“ vor, die Rechtsform ist ungeklärt und der Antragsteller haftet allein, doch keiner dieser Punkte steht im Plan als Pflicht vor dem verbindlichen Angebot.
+WOULD FLIP IF: Der Plan schriebe ausdrücklich als Gebotssperre fest, dass vor jedem verbindlichen Angebot eine schriftliche Lieferantenzusage zu Direktlieferung und Zahlungsziel (länger als die Zahlungsfrist der Behörde), eine geklärte Rechtsform bzw. Haftungsabsicherung und eine Ausschreibung ohne Referenzpflicht vorliegen müssen.

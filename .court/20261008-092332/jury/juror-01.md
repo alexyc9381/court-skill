@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Every euro in this plan flows the wrong way first: the applicant has to pay or secure the wholesaler before the public buyer pays, yet the record holds no capital figure, no supplier payment terms, no margin and no order size, so nobody can say who carries the gap, for how much, or for how long, and the 3,000-euro monthly target has no arithmetic behind it at all.
+DECIDING FACT: The defense itself concedes the pre-financing gap "bleibt" (Großhändler vor Zahlungseingang des Auftraggebers), while "konkrete Höhe des verfügbaren Kapitals", "konkrete Großhändler" and "Zielauftragsgrößen" are all listed as unknown in the case file.
+WOULD FLIP IF: The case named a product category with documented wholesaler purchase prices and payment terms (e.g. confirmed delivery on credit) and a stated available capital that covers the pre-financing of the planned order sizes until the buyer pays, giving a sourced margin per order.

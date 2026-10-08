@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: The record gives no win rate, no margin, no order size and no references, so there is no way to compute how many awards a 3,000 euros a month profit needs, and with the base rate for an unreferenced newcomer winning anything unknown, "as described" means betting capital and time on a number nobody has measured.
+DECIDING FACT: The defense itself concedes that without "vorhandene Referenzen" the applicant is "chancenlos" in tenders that require references, and that the record does not show whether enough tenders without that requirement exist.
+WOULD FLIP IF: The case named a product category and showed a real sample of past tenders in it with no reference requirement, with documented award prices against wholesale prices and wholesaler payment terms, so that a margin and a plausible win rate could actually be calculated.

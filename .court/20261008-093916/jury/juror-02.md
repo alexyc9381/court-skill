@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Als Kunde, der heute zum ersten Mal von diesem Händler hört, sehe ich in der Akte keinen einzigen Grund, Standardwerkzeug bei einem Zwischenhändler ohne Referenzen, ohne Lieferzusage und ohne geklärte Haftung zu kaufen statt direkt bei Würth oder Contorion, und ein Plan, der diese Frage nicht einmal stellt, sollte so nicht starten.
+DECIDING FACT: Die Akte enthält, wie die Anklage feststellt, „keinen Grund, warum eine Behörde beim Zwischenhändler statt beim Großhändler selbst kaufen sollte“, und die Lieferanten sind nur „mögliche Lieferanten“ ohne „bestätigte individuelle Konditionen oder Streckengeschäftsvereinbarungen“.
+WOULD FLIP IF: Der Plan benennt einen konkreten Vorteil für den Auftraggeber (etwa echte Ausschreibungen ohne Referenzpflicht, auf die die Großhändler selbst nicht bieten) und macht eine schriftliche Streckengeschäfts- und Zahlungszielzusage eines Lieferanten zur ausdrücklichen Voraussetzung vor jedem verbindlichen Angebot.

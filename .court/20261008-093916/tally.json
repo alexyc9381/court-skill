@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 12,
+  "not_guilty": 0,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "Ich sehe kein Problem darin, 500 \u20ac f\u00fcr Recherche auszugeben, aber der Plan legt nicht fest, wer wann zahlt: Zahlungsziel des Lieferanten, Zahlungsfrist der Beh\u00f6rde, Brutto oder netto und die Vorfinanzierung der Umsatzsteuer sind alle offen, und die Gebotsregel \u201enur bei erf\u00fcllten Voraussetzungen\u201c macht keine dieser Zahlen vor dem Gebot zur Pflicht, sodass das Geldrisiko so wie beschrieben nicht auf 250 \u20ac begrenzt ist.",
+      "fact": "Die Akte nennt weder die Zahlungsfrist der Beh\u00f6rde noch ein schriftlich best\u00e4tigtes Zahlungsziel des Lieferanten (\u201ekeine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c), und die Rechtsform ist ungekl\u00e4rt, obwohl der Antragsteller allein haftet. Deshalb ist die angebliche Obergrenze von 250 \u20ac nur ein Budget und keine Begrenzung der Haftung.",
+      "flip": "Der Plan schreibt als ausdr\u00fcckliche Gebotssperre vor, dass vor jedem verbindlichen Angebot drei Dinge vorliegen m\u00fcssen: ein schriftlich best\u00e4tigtes Lieferanten-Zahlungsziel, das l\u00e4nger ist als die Zahlungsfrist der Beh\u00f6rde, eine Brutto-Kalkulation einschlie\u00dflich Umsatzsteuer, die mit echten Preisen in die 250 \u20ac passt, und eine gekl\u00e4rte Rechtsform."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "Als Kunde, der heute zum ersten Mal von diesem H\u00e4ndler h\u00f6rt, sehe ich in der Akte keinen einzigen Grund, Standardwerkzeug bei einem Zwischenh\u00e4ndler ohne Referenzen, ohne Lieferzusage und ohne gekl\u00e4rte Haftung zu kaufen statt direkt bei W\u00fcrth oder Contorion, und ein Plan, der diese Frage nicht einmal stellt, sollte so nicht starten.",
+      "fact": "Die Akte enth\u00e4lt, wie die Anklage feststellt, \u201ekeinen Grund, warum eine Beh\u00f6rde beim Zwischenh\u00e4ndler statt beim Gro\u00dfh\u00e4ndler selbst kaufen sollte\u201c, und die Lieferanten sind nur \u201em\u00f6gliche Lieferanten\u201c ohne \u201ebest\u00e4tigte individuelle Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c.",
+      "flip": "Der Plan benennt einen konkreten Vorteil f\u00fcr den Auftraggeber (etwa echte Ausschreibungen ohne Referenzpflicht, auf die die Gro\u00dfh\u00e4ndler selbst nicht bieten) und macht eine schriftliche Streckengesch\u00e4fts- und Zahlungszielzusage eines Lieferanten zur ausdr\u00fccklichen Voraussetzung vor jedem verbindlichen Angebot."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "Als etablierter Lieferant w\u00fcrde ich diesen Plan ignorieren, denn er will meine Ware zu meinen Konditionen kaufen und damit gegen mich bei meinen eigenen Kunden bieten, und nichts im Plan sagt, womit er mich unterbieten oder warum ich ihm per Strecke und auf Ziel zuliefern sollte, statt selbst anzubieten.",
+      "fact": "Die Akte nennt Contorion und W\u00fcrth nur als \u201em\u00f6gliche Lieferanten\u201c ohne \u201ebest\u00e4tigte individuelle Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c und enth\u00e4lt keinen Grund, warum eine Beh\u00f6rde beim Zwischenh\u00e4ndler statt beim Gro\u00dfh\u00e4ndler selbst kaufen sollte.",
+      "flip": "Der Plan schriebe als Gebotssperre fest, dass vor jedem Angebot eine schriftliche Strecken- und Zahlungszielzusage eines Gro\u00dfh\u00e4ndlers vorliegt, der nicht selbst um dieselben Ausschreibungen konkurriert, mit dokumentiertem Einkaufspreis unter dem Preis, den die Beh\u00f6rde sonst direkt zahlt."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "Die gesamte Verteidigung st\u00fctzt sich auf die Abbruchregel \u201eNur bei erf\u00fcllten Voraussetzungen ein verbindliches Angebot abgeben\u201c, doch welche Voraussetzungen gemeint sind, steht nirgends in der Akte \u2013 eine Sicherung, deren Inhalt unbestimmt ist, ist Hoffnung und kein Beweis, und solange bei einem Zuschlag ohne gekl\u00e4rte Rechtsform der Antragsteller allein haftet, darf der Plan nicht so starten.",
+      "fact": "Ziel 3 verlangt nur \u201ezwei belastbare Lieferantenangebote\u201c (einen Preis), w\u00e4hrend die Akte festh\u00e4lt, dass \u201ekeine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c vorliegen \u2013 die schriftliche Streckengesch\u00e4fts- und Zahlungszielzusage aus dem ersten Urteil ist also nicht als Pflicht vor dem Gebot festgeschrieben.",
+      "flip": "Der Plan schreibt ausdr\u00fccklich als Gebotssperre fest, dass vor jedem verbindlichen Angebot (a) eine schriftliche Gro\u00dfh\u00e4ndlerzusage zu Direktlieferung an die Beh\u00f6rde und einem Zahlungsziel l\u00e4nger als die Zahlungsfrist der Beh\u00f6rde, (b) eine Ausschreibung ohne Referenzpflicht und (c) eine gekl\u00e4rte Rechtsform vorliegen m\u00fcssen."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "Ehrlich, 30 Tage Tabellen und Recherche neben dem Vollzeitjob, am Ende vielleicht null Gebote, und selbst wenn es klappt, sind es 100 \u20ac f\u00fcr einen Auftrag, wenn man f\u00fcr das eigentliche Ziel 30 pro Monat br\u00e4uchte; nach einer Woche h\u00e4tte ich keinen Bock mehr, und die Regel \u201enur bei erf\u00fcllten Voraussetzungen\u201c sagt nicht mal, welche Voraussetzungen gemeint sind.",
+      "fact": "Der Plan legt nicht fest, welche \u201eVoraussetzungen\u201c vor dem verbindlichen Angebot erf\u00fcllt sein m\u00fcssen, und es liegen \u201ekeine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c vor, also ist die angebliche Abbruchregel unbestimmt.",
+      "flip": "Der Plan schreibt eine feste Gebotssperre hinein (schriftliche Streckengesch\u00e4fts- und Zahlungszielzusage von Contorion oder W\u00fcrth, gekl\u00e4rte Rechtsform, Ausschreibung ohne Referenzpflicht) und endet nach 30 Tagen mit einem klaren Ja oder Nein statt mit einem Stapel Recherche."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "GUILTY",
+      "reason": "Als Ingenieur baue ich keinen Test, dessen Abbruchkriterium nicht spezifiziert ist: Die Recherche-Schritte sind billig und sinnvoll, aber das Erste, was in der Praxis bricht, ist die Lieferung nach einem Zuschlag ohne schriftliche Streckengesch\u00e4ftszusage, und genau diese Sperre fehlt vor dem verbindlichen Gebot.",
+      "fact": "Der Plan sagt nur \u201eNur bei erf\u00fcllten Voraussetzungen ein verbindliches Angebot abgeben\u201c, ohne die Voraussetzungen zu benennen, w\u00e4hrend \u201eEs liegen noch keine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen vor\u201c und Ziel 3 (\u201ezwei belastbare Lieferantenangebote\u201c) nur Preise, keine Lieferzusage verlangt.",
+      "flip": "Der Plan schriebe als ausdr\u00fcckliche Gebotssperre fest, dass vor jedem Angebot eine schriftliche Zusage eines Gro\u00dfh\u00e4ndlers zu Direktlieferung und einem Zahlungsziel l\u00e4nger als die Zahlungsfrist der Beh\u00f6rde, eine gekl\u00e4rte Rechtsform und eine Ausschreibung ohne Referenzpflicht vorliegen m\u00fcssen."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "In 20 Jahren Laden habe ich gelernt, dass dich nicht die Marge umbringt, sondern die L\u00fccke zwischen Lieferantenrechnung und Kundenzahlung. Dieser Plan erlaubt ein verbindliches Angebot, ohne vorher festzulegen, wer die Ware bezahlt, bis die Beh\u00f6rde zahlt, und mit 100 \u20ac Reserve \u00fcbersteht man keinen schwachen Monat und keine versp\u00e4tete Zahlung.",
+      "fact": "Laut Akte liegen \u201enoch keine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c vor, und die Zahlungsfrist der Beh\u00f6rde wird nirgends genannt. Die Gebotsbedingung \u201enur bei erf\u00fcllten Voraussetzungen\u201c legt nicht fest, welche Voraussetzungen gemeint sind. Ein schriftliches Zahlungsziel des Lieferanten, das l\u00e4nger ist als die Zahlungsfrist der Beh\u00f6rde, ist also keine Pflicht vor dem Gebot.",
+      "flip": "Der Plan nennt ausdr\u00fccklich als Gebotssperre: (1) eine schriftliche Zusage von Contorion oder W\u00fcrth zu Streckenlieferung und einem Zahlungsziel, das l\u00e4nger ist als die Zahlungsfrist der Beh\u00f6rde, (2) gekl\u00e4rte Rechtsform und Haftung und (3) einen Brutto-Einkauf inklusive Umsatzsteuer, der in die 250 \u20ac passt. Dann kostet der 30-Tage-Test nur Zeit und kein Geld, das ich nicht habe."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "The record contains no base rate at all (no win rate, no award prices, no documented margins), and a test built around one \u20ac250 order and at most one bid yields a sample of n\u22641, which cannot show whether the \u20ac100 margin holds or whether the 30 wins a month needed for \u20ac3,000 are even plausible, while the one binding bid it allows rests on unstated \"Voraussetzungen\".",
+      "fact": "The case file itself states the \u20ac100 margin is \"bisher nicht durch echte Preise belegt\", the defense concedes it is \"reine Annahme\", and the file gives no win rate, yet \u20ac3,000 per month at \u20ac100 per order means 30 won tenders a month.",
+      "flip": "The 30-day test were rewritten as a data-only run that records real award prices against documented wholesale prices across all ten tenders researched, with a written ban on any binding bid until a supplier has confirmed drop shipping and payment terms in writing, the legal form is settled, and the tender is confirmed to need no references."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "Gedeckelt sind nur die 250 \u20ac Wareneinkauf, nicht die Haftung eines 21-J\u00e4hrigen, der allein haftet und nach einem Zuschlag ohne schriftliche Lieferantenzusage liefern m\u00fcsste, weil der Plan nicht festlegt, welche \u201eVoraussetzungen\u201c vor einem verbindlichen Angebot erf\u00fcllt sein m\u00fcssen.",
+      "fact": "Laut Akte liegen \u201enoch keine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen vor\u201c, und die Rechtsform ist ungekl\u00e4rt. Trotzdem nennt der Plan f\u00fcr ein verbindliches Angebot nur \u201eerf\u00fcllte Voraussetzungen\u201c, ohne sie zu bestimmen.",
+      "flip": "Der Plan schreibt eine ausdr\u00fcckliche Gebotssperre fest: kein verbindliches Angebot ohne schriftliche Zusage des Gro\u00dfh\u00e4ndlers zu Direktlieferung und einem Zahlungsziel l\u00e4nger als die Zahlungsfrist der Beh\u00f6rde, ohne gekl\u00e4rte Rechtsform und Haftung und ohne gepr\u00fcfte Ausschreibung ohne Referenzpflicht."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "Als Investor sehe ich h\u00f6chstens 100 \u20ac unbelegten Deckungsbeitrag pro Auftrag gegen die pers\u00f6nliche Alleinhaftung nach Zuschlag, und die einzige Bremse dazwischen, \u201eNur bei erf\u00fcllten Voraussetzungen ein verbindliches Angebot abgeben\u201c, sagt nicht, welche Voraussetzungen gemeint sind; so gebe ich mein Geld nicht frei.",
+      "fact": "Es liegen \u201enoch keine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c vor, die Rechtsform ist ungekl\u00e4rt und der Antragsteller haftet allein, doch keiner dieser Punkte steht im Plan als Pflicht vor dem verbindlichen Angebot.",
+      "flip": "Der Plan schriebe ausdr\u00fccklich als Gebotssperre fest, dass vor jedem verbindlichen Angebot eine schriftliche Lieferantenzusage zu Direktlieferung und Zahlungsziel (l\u00e4nger als die Zahlungsfrist der Beh\u00f6rde), eine gekl\u00e4rte Rechtsform bzw. Haftungsabsicherung und eine Ausschreibung ohne Referenzpflicht vorliegen m\u00fcssen."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "Die ganze Verteidigung h\u00e4ngt an einer Abbruchregel, die ein Fremder nicht in f\u00fcnf Sekunden versteht, weil der Plan nirgends sagt, welche \u201eVoraussetzungen\u201c vor einem verbindlichen Gebot erf\u00fcllt sein m\u00fcssen, und eine Sicherung, die man nicht lesen kann, sichert nichts.",
+      "fact": "Ziel 5 lautet nur \u201eNur bei erf\u00fcllten Voraussetzungen ein verbindliches Angebot abgeben\u201c, ohne die Voraussetzungen zu benennen, und Ziel 3 verlangt blo\u00df \u201ezwei belastbare Lieferantenangebote\u201c, also Preise statt der schriftlichen Zusage zu Streckengesch\u00e4ft und Zahlungsziel, die das erste Urteil gefordert hat.",
+      "flip": "Der Plan nennt als ausdr\u00fcckliche, abhakbare Gebotssperre die schriftliche Streckengesch\u00e4fts- und Zahlungszielzusage eines Gro\u00dfh\u00e4ndlers, die gekl\u00e4rte Rechtsform und eine Ausschreibung ohne Referenzpflicht, sodass jeder auf einen Blick sieht, wann geboten wird und wann nicht."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "Ein Zuschlag macht das Angebot zu einem verbindlichen Vertrag mit Liefer- und Gew\u00e4hrleistungspflicht, und der Plan nennt Gewerbe, Rechtsform, Versicherung, Vergaberecht und eine schriftliche Streckengesch\u00e4fts- und Zahlungszielzusage nirgends als Pflicht vor diesem Gebot, sodass der Gr\u00fcnder mit seinem Privatverm\u00f6gen f\u00fcr ein Versprechen einsteht, das ein Dritter (Contorion oder W\u00fcrth) ohne jede Zusage erf\u00fcllen soll.",
+      "fact": "Die Abbruchregel lautet nur \u201eNur bei erf\u00fcllten Voraussetzungen ein verbindliches Angebot abgeben\u201c, ohne die Voraussetzungen zu benennen, w\u00e4hrend die Akte festh\u00e4lt, dass der Antragsteller allein haftet, die Rechtsform ungekl\u00e4rt ist und \u201ekeine best\u00e4tigten individuellen Konditionen oder Streckengesch\u00e4ftsvereinbarungen\u201c vorliegen; zu Gewerbeanmeldung, Haftpflichtversicherung, Gew\u00e4hrleistung, Lieferverzug und Eignungsnachweisen schweigt die Akte ganz.",
+      "flip": "Der Plan schriebe als ausdr\u00fcckliche Gebotssperre fest, dass vor jedem verbindlichen Angebot das Gewerbe angemeldet, die Rechtsform und Haftung gekl\u00e4rt, eine Betriebshaftpflicht besteht, die Ausschreibung ohne Referenzpflicht gepr\u00fcft und eine schriftliche Lieferantenzusage zu Direktlieferung, Lieferfrist, Gew\u00e4hrleistung und einem Zahlungsziel l\u00e4nger als die Zahlungsfrist der Beh\u00f6rde vorliegen muss."
+    }
+  ]
+}
