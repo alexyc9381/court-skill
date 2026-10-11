@@ -37,25 +37,25 @@ CHARGE = "The case fails as stated: it should not go ahead the way it is describ
 # ---------- state ----------
 
 def load_jurors():
-    with open(os.path.join(HERE, "jurors.json")) as f:
+    with open(os.path.join(HERE, "jurors.json"), encoding="utf-8") as f:
         return json.load(f)
 
 
 def run_dir():
     if not os.path.exists(LATEST):
         sys.exit("court: no trial yet. Run: court.py init --case-file .court/case.md")
-    with open(LATEST) as f:
+    with open(LATEST, encoding="utf-8") as f:
         return f.read().strip()
 
 
 def load_state(rd=None):
     rd = rd or run_dir()
-    with open(os.path.join(rd, "state.json")) as f:
+    with open(os.path.join(rd, "state.json"), encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_state(state):
-    with open(os.path.join(state["dir"], "state.json"), "w") as f:
+    with open(os.path.join(state["dir"], "state.json"), "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
 
@@ -190,7 +190,7 @@ def parse_vote(text):
 def tally(state):
     rows = []
     for j, juror in zip(jobs(state, "jury"), state["jury"]):
-        text = open(j["output"]).read() if done(j) else ""
+        text = open(j["output"], encoding="utf-8").read() if done(j) else ""
         v = parse_vote(text)
         rows.append({"juror": juror["name"], "vote": v["vote"] if v else "NO VOTE",
                      "reason": v["reason"] if v else "", "fact": v["fact"] if v else "",
@@ -205,7 +205,7 @@ def tally(state):
         verdict = "HUNG JURY"
     result = {"verdict": verdict, "guilty": guilty, "not_guilty": not_guilty,
               "no_vote": len(rows) - guilty - not_guilty, "jurors": rows}
-    with open(os.path.join(state["dir"], "tally.json"), "w") as f:
+    with open(os.path.join(state["dir"], "tally.json"), "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2)
     return result
 
@@ -219,10 +219,10 @@ def verdict_line(t):
 
 def render(state):
     t = tally(state)
-    case = open(os.path.join(state["dir"], "case.md")).read().strip()
+    case = open(os.path.join(state["dir"], "case.md"), encoding="utf-8").read().strip()
     first = case.splitlines()[0].lstrip("# ").strip() if case else "(empty case)"
     judge = jobs(state, "judge")[0]
-    judgment = open(judge["output"]).read().strip() if done(judge) else "_The judge has not ruled yet._"
+    judgment = open(judge["output"], encoding="utf-8").read().strip() if done(judge) else "_The judge has not ruled yet._"
     lines = ["# The verdict: %s" % verdict_line(t), "",
              "**The case:** %s" % first, "", "**The charge:** %s" % CHARGE, "",
              "## How the jury voted", "", "| Juror | Vote | Why |", "|---|---|---|"]
@@ -232,7 +232,7 @@ def render(state):
               "_The full trial is in %s: the opening statements, the rebuttals and every juror's vote._"
               % os.path.abspath(state["dir"]), "", CREDIT]
     text = "\n".join(lines) + "\n"
-    with open(os.path.join(state["dir"], "VERDICT.md"), "w") as f:
+    with open(os.path.join(state["dir"], "VERDICT.md"), "w", encoding="utf-8") as f:
         f.write(text)
     return text
 
@@ -250,7 +250,7 @@ def cmd_init(args):
     n = jury_size(args)
     if not os.path.exists(args.case_file):
         sys.exit("court: case file not found: %s" % args.case_file)
-    case = open(args.case_file).read().strip()
+    case = open(args.case_file, encoding="utf-8").read().strip()
     if not case:
         sys.exit("court: the case file is empty")
     seed = args.seed if args.seed is not None else random.randrange(1, 10 ** 6)
@@ -260,11 +260,11 @@ def cmd_init(args):
     rd = os.path.join(ROOT, time.strftime("%Y%m%d-%H%M%S"))
     for sub in ("briefs", "opening", "rebuttal", "jury", "judge"):
         os.makedirs(os.path.join(rd, sub), exist_ok=True)
-    with open(os.path.join(rd, "case.md"), "w") as f:
+    with open(os.path.join(rd, "case.md"), "w", encoding="utf-8") as f:
         f.write(case + "\n")
     state = {"dir": rd, "seed": seed, "jury": jury, "created": time.strftime("%Y-%m-%dT%H:%M:%S")}
     save_state(state)
-    with open(LATEST, "w") as f:
+    with open(LATEST, "w", encoding="utf-8") as f:
         f.write(rd)
     print("court: trial opened in %s (jury of %d, seed %d)" % (rd, n, seed))
     print("next: python3 court.py prompts opening")
@@ -274,7 +274,7 @@ def cmd_prompts(args):
     state = load_state()
     todo = missing(state, args.phase)
     for j in jobs(state, args.phase):
-        with open(j["brief"], "w") as f:
+        with open(j["brief"], "w", encoding="utf-8") as f:
             f.write(brief_text(state, args.phase, j))
     if not todo:
         print("court: %s is complete. Run: court.py next" % args.phase)
@@ -320,6 +320,7 @@ def cmd_render(args):
 
 
 def main(argv=None):
+    sys.stdout.reconfigure(encoding="utf-8")
     p = argparse.ArgumentParser(prog="court.py")
     sub = p.add_subparsers(dest="cmd")
     pl = sub.add_parser("plan")
